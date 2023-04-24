@@ -1,0 +1,300 @@
+body {
+  font-family: Raleway, sans-serif;
+  line-height: 1rem;
+}
+
+
+.menu {
+  padding: 15px 0 0 0;
+  color: black;
+}
+
+
+
+/* biller 1st section */
+
+#biller {
+  text-align: center;
+  padding: 2% 2% 5%;
+  background-image: url(https://www.remita.net/assets/minimal/images/hero_img.png);
+}
+
+.search-biller {
+  width: 96%;
+  border-radius: 28px;
+  text-align: center;
+  padding: 10px 40px 10px 40px;
+}
+
+.search-box {
+  padding: 2% 0 3% 0;
+}
+
+.sign-up {
+  text-align: left;
+  padding-right: 400px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.sign-up btn-2 {
+  padding: 10px 40px 10px 70px;
+
+}
+
+.quick-link {
+  background-color: #ffffff;
+  border: #eff4f8;
+  margin: 10px;
+  height: 130px;
+  width: 160px;
+  border-radius: 25px;
+}
+
+.icon {
+  color: #f07c16;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+
+/* second section */
+
+#section-2 {
+  padding: 0 0 90px;
+  background-image: url(https://www.remita.net/assets/minimal/images/mini_features_hero_img.png);
+}
+
+.card {
+  align-content: space-between;
+}
+
+.card-1 {
+  margin-top: 50px;
+  width: 400px;
+  font-family: 'Kanit', sans-serif;
+}
+
+.card-2 {
+  margin-top: 50px;
+  line-height: 1.5;
+  font-weight: lighter;
+  font-size: 2rem;
+  font-family: Raleway, sans-serif;
+  color: #525256;
+}
+
+.card-3 {
+  margin-top: 50px;
+  margin-right: 200px;
+}
+
+/* third section */
+#section-3 {
+  padding: 50px 10px 80px;
+  background-image: url(https://www.remita.net/assets/minimal/images/merchants_bg_hero_img.png);
+}
+
+/* fourth section */
+
+#section-4 {
+  text-align: center;
+  padding: 100px 200px;
+  background-image: url(https://www.remita.net/assets/minimal/images/minimal_billers_bg.png);
+}
+
+#section-4 h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 0 300px 20px;
+}
+
+#section-4 p {
+  padding: 20px 150px;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-family: Raleway, sans-serif;
+  color: #525256;
+}
+
+.pic {
+  display: inline;
+  padding: 35px 25px;
+  margin: 0 10px;
+  background-color: #ffffff;
+  border-radius: 20px;
+
+}
+
+.pic img {
+  margin: 20px 0px;
+}
+
+#section-4 .butt {
+  padding-top: 25px;
+}
+
+/* section-5 */
+
+#section-5 {
+  padding: 100px 0;
+  background-image: url(https://www.remita.net/assets/minimal/images/mini_download_bg_img.svg);
+}
+
+.download {
+  margin-top: 200px;
+  padding-left: 150px;
+}
+
+.mini {
+  padding-right: 30px;
+  width: 58rem;
+}
+
+#section-5 h1 {
+  width: 55%;
+  padding-bottom: 30px;
+}
+
+.download p {
+  font-family: Raleway, sans-serif;
+  color: #525256;
+  line-height: 1.5;
+  font-size: 1.6rem;
+  margin-right: 30px;
+  padding-bottom: 30px;
+}
+
+.download a {
+  margin-right: 15px;
+}
+
+/* section-6 */
+
+#section-6 {
+  text-align: center;
+  background-image: url(https://www.remita.net/assets/minimal/images/minimal_developers_bg.png);
+  padding: 40px 0 90px 0;
+}
+
+#section-6 h2 {
+  padding-top: 60px;
+}
+
+#section-6 p {
+  font-family: Raleway, sans-serif;
+  color: #525256;
+  line-height: 1.5;
+  font-size: 1.6rem;
+  width: 55%;
+  margin: 2rem 20rem;
+}
+
+.hero {
+  position: relative;
+  margin-right: 20px;
+  left: 120px;
+}
+
+.code {
+  position: relative;
+  left: 0px;
+}
+
+#section-6 button {
+  position: relative;
+  top: 300px;
+  right: 450px;
+}
+
+
+/* section-7 */
+#section-7 {
+  position: relative;
+  color: #ffffff;
+  background-image: url(https://www.remita.net/assets/minimal/images/minimal_newsletter_bg_img.svg);
+  padding: 130px 50px;
+  text-align: center;
+}
+
+#section-7 h1 {
+  padding-bottom: 20px;
+}
+
+#section-7 .enter {
+  border-radius: 25px;
+  width: 32%;
+  padding: 10px 15px;
+  background: none;
+  text-align: left;
+}
+
+#section-7 button {
+  width: 10%;
+  padding: 10px 20px;
+  border-radius: 28px;
+  font-family: Arial;
+  font-size: 15px;
+  background: #d0d7db;
+}
+
+/* section-8 */
+
+#section-8 {
+  padding: 60px 25px 30px 35px;
+  font-family: raleway, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.social {
+  text-align: center;
+}
+
+.social p {
+  padding: 0 150px;
+}
+
+.social .icon {
+  margin-top: 0;
+}
+
+.last {
+  text-align: right;
+}
+
+
+
+.top-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #0f1715;
+  font-size: 20px;
+  background: #d0d7db;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  margin: 8px;
+}
+
+.top-btn:hover {
+  background: #ffffff;
+  text-decoration: none;
+}
+
+
+
+.btn-2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  background: #f07c16;
+  padding: 14px 40px 13px 40px;
+  text-decoration: none;
+}
+
+.btn-2:hover {
+  background: #e24f14;
+  text-decoration: none;
+}
